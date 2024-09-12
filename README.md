@@ -3,4 +3,4 @@ mpion  390 MeV
 b_s ~ 0.123 fm, anisotropy factor ~ 3.5
 two volumes (16 x 128 and 24 x 128)
 
-more details in https://arxiv.org/pdf/1109.2889
+more details in https://arxiv.org/pdf/1104.4101 and https://arxiv.org/pdf/1109.2889
